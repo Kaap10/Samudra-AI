@@ -1,0 +1,13 @@
+timestamp,location,temperature_celsius,salinity_psu,ph_level,dissolved_oxygen_mg_l,dominant_species,catch_kg
+1970-01-01,arabian sea,16.15,34.2,8.13,8.3,Indian Oil Sardine,7800.0
+1970-01-01,arabian sea,16.15,34.2,8.13,8.3,Seer Fish,5500.0
+1970-01-01,bay of bengal,15.52,34.0,8.09,8.34,Hilsa Shad,4500.0
+1970-01-01,bay of bengal,15.52,34.0,8.09,8.34,Indian Mackerel,3200.0
+1970-01-01,bay of bengal,15.52,34.0,8.09,8.34,Hilsa Shad,4100.0
+2024-01-15,bay of bengal,15.3,34.1,8.1,8.5,,3933.33
+2024-01-16,bay of bengal,15.52,34.0,8.12,8.4,,3933.33
+2024-01-17,bay of bengal,15.4,34.0,8.09,8.6,,3933.33
+2024-01-18,arabian sea,16.15,34.2,8.15,8.3,,6650.0
+2024-01-19,arabian sea,16.15,34.3,8.11,8.3,,6650.0
+2024-01-20,arabian sea,16.2,34.1,8.13,8.4,,6650.0
+2024-01-21,bay of bengal,15.52,34.0,8.05,8.1,,3933.33

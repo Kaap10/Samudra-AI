@@ -1,0 +1,8 @@
+survey_date,region,ph_level,dissolved_oxygen_mg_l
+15.01.2024,bay of bengal,8.1,
+16.01.2024,bay of bengal,8.12,8.4
+17.01.2024,bay of bengal,8.09,8.5
+18.01.2024,arabian sea,8.15,
+19.01.2024,arabian sea,8.11,8.3
+20.01.2024,arabian sea,BAD_DATA,
+21.01.2024,bay of bengal,8.05,8.1
